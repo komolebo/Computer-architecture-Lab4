@@ -3,4 +3,4 @@ com:
 	./tests
 
 
-    g++ servers/server_pthread.cpp -o servers/server_pthread -std=c++11 -lboost_system -lboost_serialization -pthread
+ 
