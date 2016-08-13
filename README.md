@@ -1,3 +1,2 @@
 # Computer-architecture-Lab4
-Forks, pthread, asio, boost, boost test, serialization, sockets
-C++, Linux
+C++. Forks, pthread, asio, boost, boost test, serialization, sockets, POSIX
